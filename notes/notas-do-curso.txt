@@ -1,1 +1,28 @@
 Notas do curso serão aqui
+
+CSS FLEX
+    flex - DIREÇÃO DOS ELEMENTOS
+    row
+        flex-direction: row
+    row-reverse
+        flex-direction: row-reverse;
+    column
+        flex-direction: column;
+    column-reverse
+        flex-direction: column-reverse;
+
+    -wrap - QUEBRA DE LINHA
+    wrap: // quebrando linha
+        flex-wrap:wrap 
+    no wrap: // não quebrando
+        flexwrap:nowrap;
+    wrap-reverse: // quebrando do inverso
+        flexwrap:wrap-reverse;
+    
+    flex-flow - EM LINHA SEM QUEBRA
+    flex-flow:
+        flex-flow: row nowrap;
+    // pode utilizar os mesmos parametros de wrap e wrap-reverse também
+
+    
+    
