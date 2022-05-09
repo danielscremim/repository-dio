@@ -52,7 +52,33 @@ APENAS TESTES DEFININDO VARIÁVEL, FALOU SOBRE COMENTÁRIOS.
 
 AULA 3 - EXECUTANDO ARQUIVO .JS
 CONSOLE DO WEBSITE
+--------------------------------------------------------------
+AULA 4 OPERADORES E SINTAXES
+= - equivalente a x = y
++= '' x = x+y
+*= x = x*y
+/= x = x/y
+%= x = x%y
+++ incrementador
+--decrementar
+% modulo
+== igual A
+=== mesmo valor e mesmo tipo
+!= diferente
+!== valor e tipos diferentes
+
+LOGICA
+&& "e" logico
+|| "ou" logico
+! "não" logico
+
+condicional
+[                    false            ]
+[          true        ]
+(condition) ? expression1 : expression 2
 
 
-
-    
+if (condition)
+    statement;
+else 
+    statement;
